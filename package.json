@@ -1,0 +1,14 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1",
+    "webpack-stream": "^5.2.1"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}
